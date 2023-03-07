@@ -1,4 +1,4 @@
-﻿using ClickBus.DataContracts.V1.Response.Place;
+﻿using ClickBus.DataContracts.V1.Operations.Place.CreatePlace.Response.Place;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System.Collections.Generic;

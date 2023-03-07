@@ -1,11 +1,12 @@
 ﻿using System;
+using ClickBus.DataContracts.V1.Response;
 
-namespace ClickBus.DataContracts.V1.Response.Place
+namespace ClickBus.DataContracts.V1.Operations.Place.CreatePlace.Response
 {
     /// <summary>
     /// TODO: Doc.
     /// </summary>
-    public class PlaceResponse : BaseResponse
+    public class CreatePlaceResponse : BaseResponse
     {
         public DateTime CreatedAt { get; set; }
 
