@@ -13,6 +13,6 @@ namespace ClickBus.Entities.V1
 
         public DateTime CreatedAt { get; set; }
 
-        public DateTime UpdatedAt { get; set; }
+        public DateTime? UpdatedAt { get; set; }
     }
 }
